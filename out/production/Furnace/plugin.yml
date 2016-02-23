@@ -1,0 +1,6 @@
+name: Crafts
+version: 2.1
+main: fr.coco.crafts.main.Crafts
+commands:
+  test:
+    description: null

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="furnace">
+    <output-path>$USER_HOME$/Desktop/Developpement/serveur2/plugins</output-path>
+    <root id="archive" name="furnace.jar">
+      <element id="module-output" name="Furnace" />
+    </root>
+  </artifact>
+</component>
