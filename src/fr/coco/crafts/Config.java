@@ -1,11 +1,12 @@
 package fr.coco.crafts;
 
-import fr.coco.crafts.main.Crafts;
+import java.io.File;
+import java.io.IOException;
+
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
 
-import java.io.File;
-import java.io.IOException;
+import fr.coco.crafts.main.Crafts;
 
 /**
  * Created by coco33910 on 13/02/2016.
